@@ -24,7 +24,7 @@ Furthermore, this study provides a comprehensive characterisation of patients cl
 
 ## 📃 Funding
 
-This work was supported by the ADR Wales programme of work. The ADR Wales programme of work is aligned to the priority themes as identified in the Welsh Government’s national strategy: Prosperity for All. ADR Wales brings together data science experts at Swansea University Medical School, staff from the Wales Institute of Social and Economic Research, Data and Methods (WISERD) at Cardiff University and specialist teams within the Welsh Government to develop new evidence which supports Prosperity for All by using the SAIL Databank at Swansea University, to link and analyse anonymised data. ADR Wales is part of the Economic and Social Research Council (part of UK Research and Innovation) funded ADR UK (grant ES/S007393/1).
+This research has been carried out as part of the ADR Wales programme of work, as part of the Major Societal Challenges thematic research area. The thematic research areas align with the priority themes identified in the Welsh Government’s Programme for Government. ADR Wales brings together data science experts at Swansea University Medical School, staff from the Wales Institute of Social and Economic Research and Data (WISERD) at Cardiff University and specialist teams within the Welsh Government. It develops new evidence which supports the Programme for Government by using the SAIL Databank at Swansea University to link and analyse anonymised data. ADR Wales is part of ADR UK, which is funded by the Economic and Social Research Council (part of UK Research and Innovation).
 
 ## ❤ Acknowledgements
 
