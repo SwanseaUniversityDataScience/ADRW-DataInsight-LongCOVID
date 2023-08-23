@@ -19,7 +19,8 @@ Furthermore, this study provides a comprehensive characterisation of patients cl
 
 ## 🖋 How to cite this work
 
-> INSERT LINK HERE
+> Abbasizanjani H, Bedston S, Robinson L, Curds M, Akbari A. Clinical coding and capture of Long COVID: a cohort study in Wales using linked health and demographic data. ADR Wales Data Insight. August 2023.
+https://adrwales.org/wp-content/uploads/2023/08/Clinical-coding-and-capture-of-Long-COVID.pdf
 
 
 ## 📃 Funding
